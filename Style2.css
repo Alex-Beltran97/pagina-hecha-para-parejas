@@ -1,0 +1,18 @@
+div {
+    margin: 2px 200px 50px;
+    border: 20px solid #fdffb6;
+    padding: 14px 20px;
+    font-family: cursive;
+    font-size: 20px;
+    border-radius: 50px;
+}
+
+body {
+	background-color:#cdb4db;
+}
+
+h1{
+    margin-top: 1px;
+    font-family: cursive;
+    color:#3f37c9; 
+}
